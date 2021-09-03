@@ -1,11 +1,12 @@
 {
-  "catalogs": {},
-  
-"aliases": {
-    "tabula-java": {
-      "script-ref": "https://github.com/tabulapdf/tabula-java/releases/download/v1.0.5/tabula-1.0.5-jar-with-dependencies.jar",
-      "description": "Tabula for you"
-    },
- }
-
+    "catalogs":
+    {},
+    "aliases":
+    {
+        "tabula-java":
+        {
+            "script-ref": "https://github.com/tabulapdf/tabula-java/releases/download/v1.0.5/tabula-1.0.5-jar-with-dependencies.jar",
+            "description": "Tabula for you"
+        }
+    }
 }
