@@ -1,9 +1,14 @@
 # My jbang-catalog
 
 ## Add the catalog
-Add the catalog by running
 ```bash
-jbang --verbose catalog add thejeshgn https://raw.githubusercontent.com/thejeshgn/jbang-catalog/main/thejeshgn-catalog.json
+# Add the catalog by running
+
+jbang --verbose catalog add thejeshgn https://thejeshgn.github.io/jbang-catalog/thejeshgn-catalog.json
+
+# or
+
+jbang --verbose catalog add thejeshgn https://lib.thejeshgn.com/jbang-catalog/thejeshgn-catalog.json
 ```
 
 
