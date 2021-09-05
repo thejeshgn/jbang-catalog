@@ -1,4 +1,6 @@
 {
+    "_id": "thejeshgn-catalog.json",
+    "_rev": "3-04dcf13d729e43caa05cc5d7c07b49a8",
     "aliases":
     {
         "dc-import":
@@ -6,10 +8,20 @@
             "description": "Data Commons - Import Tool",
             "script-ref": "https://github.com/datacommonsorg/import/releases/download/0.1-alpha.1b/datacommons-import-tool-0.1-alpha.1-jar-with-dependencies.jar"
         },
+        "jython":
+        {
+            "description": "Jython Standalone REPL",
+            "script-ref": "org.python:jython-standalone:2.7.2"
+        },
         "tabula":
         {
             "description": "Tabula for you",
             "script-ref": "https://github.com/tabulapdf/tabula-java/releases/download/v1.0.5/tabula-1.0.5-jar-with-dependencies.jar"
+        },
+        "kmcaster":
+        {
+            "description": "kmcaster - Java-based on-screen display (OSD) for keyboard and mouse events.",
+            "script-ref": "https://github.com/DaveJarvis/kmcaster/releases/download/1.0.3/kmcaster.jar"
         }
     },
     "catalogs":
